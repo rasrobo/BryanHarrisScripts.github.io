@@ -1,6 +1,8 @@
 
 ---
 
+![Backup Afterglow-1](https://github.com/BryanHarrisScripts/BryanHarrisScripts/assets/91784044/cae3e557-7102-4288-a63b-55f8bcb2c93a)
+
 # Mission
 Embracing challenges, I am on a transformative journey, rebooting and evolving into a better version of myself.
 
