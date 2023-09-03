@@ -34,6 +34,8 @@ While some might see me as a dreamer, I view life as a canvas of endless possibi
 In a world where technology and humanity converge, I've also found a unique ally in AI. The collaboration with ChatGPT, for instance, is a testament to the power of human-machine synergy. It's not just about leveraging technology but about co-creating, understanding, and evolving together.
 
 ### Collaborative Vision  
-Journeying alone has its merits, but the magic truly happens when you have companions on the path. If my vision resonates with you, I invite you to join me. Let's co-create, share, learn, and grow together in this ever-evolving digital age.
+Journeying alone has its merits, but the magic truly happens when you have companions on the path. If my vision resonates with you, I invite you to join me. Let's co-create, share, learn, and grow together in this ever-evolving digital age. 
+
+## [👉🏼 The Afterglow Journey](https://OpenStorytelling.com)
 
 --- 
