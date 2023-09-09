@@ -34,12 +34,12 @@ Steps:
 
 | Image | Narrative | Shot Type | Notes | Scene Number |
 |-------|-----------|-----------|-------|--------------|
-| ![Toy on park bench](https://github.com/BryanHarrisScripts/BryanHarrisScripts/blob/main/BryanRebooted_a_toy_on_a_park_bench_the_same_toy_in_another_ima_c9dbb595-f0ac-40ee-a8eb-ed8f405ab27f.png) | "Lost in the vastness of the world, it sat alone." | Close-up of toy on bench | Transition: Slow fade-in | 1 |
-| ![Toy near bus stop](https://github.com/BryanHarrisScripts/BryanHarrisScripts/blob/main/BryanRebooted_a_toy_on_a_park_bench_the_same_toy_in_another_ima_c9dbb595-f0ac-40ee-a8eb-ed8f405ab27f.png) | "Overlooked by many, waiting for a familiar touch." | Medium shot with people in background | Transition: Crossfade | 2 |
-| ![Toy in cafe](https://github.com/BryanHarrisScripts/BryanHarrisScripts/blob/main/BryanRebooted_a_toy_on_a_park_bench_the_same_toy_in_another_ima_c9dbb595-f0ac-40ee-a8eb-ed8f405ab27f.png) | "Among the chatter and laughter, it silently called out." | Wide shot of cafe interior | Ambient cafe sounds overlay | 3 |
-| ![Toy in playground](https://github.com/BryanHarrisScripts/BryanHarrisScripts/blob/main/BryanRebooted_a_toy_on_a_park_bench_the_same_toy_in_another_ima_c9dbb595-f0ac-40ee-a8eb-ed8f405ab27f.png) | "In places of joy, it felt the weight of solitude." | Medium shot with distant playing children | Transition: Crossfade | 4 |
-| ![Toy with color seeping in](https://github.com/BryanHarrisScripts/BryanHarrisScripts/blob/main/BryanRebooted_a_toy_on_a_park_bench_the_same_toy_in_another_ima_c9dbb595-f0ac-40ee-a8eb-ed8f405ab27f.png) | "But even in the darkest moments, hope finds a way." | Close-up with gradual color transition | Transition: Slow fade-in of color | 5 |
-| ![Child's hand picking up toy](https://github.com/BryanHarrisScripts/BryanHarrisScripts/blob/main/BryanRebooted_a_toy_on_a_park_bench_the_same_toy_in_another_ima_c9dbb595-f0ac-40ee-a8eb-ed8f405ab27f.png) | "For every lost story, there's a home waiting." | Close-up of hand and toy with sunset | Uplifting music climax | 6 |
+| ![Toy on park bench](https://github.com/BryanHarrisScripts/BryanHarrisScripts/blob/main/thumbnail.png) | "Lost in the vastness of the world, it sat alone." | Close-up of toy on bench | Transition: Slow fade-in | 1 |
+| ![Toy near bus stop](https://github.com/BryanHarrisScripts/BryanHarrisScripts/blob/main/thumbnail.png) | "Overlooked by many, waiting for a familiar touch." | Medium shot with people in background | Transition: Crossfade | 2 |
+| ![Toy in cafe](https://github.com/BryanHarrisScripts/BryanHarrisScripts/blob/main/thumbnail.png) | "Among the chatter and laughter, it silently called out." | Wide shot of cafe interior | Ambient cafe sounds overlay | 3 |
+| ![Toy in playground](https://github.com/BryanHarrisScripts/BryanHarrisScripts/blob/main/thumbnail.png) | "In places of joy, it felt the weight of solitude." | Medium shot with distant playing children | Transition: Crossfade | 4 |
+| ![Toy with color seeping in](https://github.com/BryanHarrisScripts/BryanHarrisScripts/blob/main/thumbnail.png) | "But even in the darkest moments, hope finds a way." | Close-up with gradual color transition | Transition: Slow fade-in of color | 5 |
+| ![Child's hand picking up toy](https://github.com/BryanHarrisScripts/BryanHarrisScripts/blob/main/thumbnail.png) | "For every lost story, there's a home waiting." | Close-up of hand and toy with sunset | Uplifting music climax | 6 |
 
 <a href="#top">Back to Top</a>
 
