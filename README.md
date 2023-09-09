@@ -1,3 +1,9 @@
+
+<div align="right" style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center; gap: 1em; margin: 4em 0;">
+<a href="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/README.md">Home</a>
+
+</div>
+
 ![Backup Afterglow-1](https://github.com/BryanHarrisScripts/BryanHarrisScripts/assets/91784044/cae3e557-7102-4288-a63b-55f8bcb2c93a)
 
 # Bridging Worlds by Defining Actions
