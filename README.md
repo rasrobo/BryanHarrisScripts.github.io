@@ -4,31 +4,31 @@
 
 In a world that oscillates between the tangible roots of our past and the digital horizons of our future, finding one's true north is paramount. 
 
-Your Actions Define You: At the core of my digital footprint, this reminds me of the weight and significance of every word and action.
+**Your Actions Define You:** At the core of my digital footprint, this reminds me of the weight and significance of every word and action.
 
-Guiding Stars: Values, skills—both innate and learned—and the pursuit of genuine joy and pleasure, are my true north, guiding every step of my journey.
+**Guiding Stars:** Values, skills—both innate and learned—and the pursuit of genuine joy and pleasure, are my true north, guiding every step of my journey.
 
 It's about understanding that values, skills—whether innate, learned, or transferable—and genuine joy serve as my guiding stars in this intricate dance between the real and the virtual.
 
 ### Foundational Reminders:
 
-For my grandkids: I strive to be a beacon of wisdom, love, and experience for them.
+**For my grandkids:** I strive to be a beacon of wisdom, love, and experience for them.
 
-Vulnerability & Legacy: I stand here for myself, allowing vulnerability to shine and aiming to leave a lasting legacy.
+**Vulnerability & Legacy:** I stand here for myself, allowing vulnerability to shine and aiming to leave a lasting legacy.
 
-Service to Others: With a heart full of love, I share my unique gifts and serve others.
+**Service to Others:** With a heart full of love, I share my unique gifts and serve others.
 
-Not a Numbers Game: I don't chase metrics or compete. I'm here to share my stories, to learn every day, and to live in the moment.
+**Not a Numbers Game:** I don't chase metrics or compete. I'm here to share my stories, to learn every day, and to live in the moment.
 
-Like-minded Journeys: I seek kindred spirits, engaging in enriching conversations, and continuously learning.
+**Like-minded Journeys:** I seek kindred spirits, engaging in enriching conversations, and continuously learning.
 
-Sharing Creativity: I open my heart to share my screenplays, my thoughts, and to find joy in every digital interaction.
+**Sharing Creativity:** I open my heart to share my screenplays, my thoughts, and to find joy in every digital interaction.
 
-Physical & Mental Wellness: A reminder to run, walk, and always move forward, nurturing both body and mind.
+**Physical & Mental Wellness:** A reminder to run, walk, and always move forward, nurturing both body and mind.
 
-Goals Over Platforms: My focus remains on my goals, ensuring I'm not swayed by platforms or their gatekeepers.
+**Goals Over Platforms:** My focus remains on my goals, ensuring I'm not swayed by platforms or their gatekeepers.
 
-Living in the Present: Every day, I celebrate life, embracing the now and cherishing every moment.
+**Living in the Present:** Every day, I celebrate life, embracing the now and cherishing every moment.
 
 ### Mission:
 
@@ -50,25 +50,25 @@ Staying true to oneself, one's beliefs, values, and passions is the balance I se
 
 ### Pillars of Belief:
 
-Limitless Creativity: Every endeavour I undertake is a piece of my heart.
+**Limitless Creativity:** Every endeavour I undertake is a piece of my heart.
 
-Authenticity: I prioritize genuine narratives, fostering deep and meaningful connections.
+**Authenticity:** I prioritize genuine narratives, fostering deep and meaningful connections.
 
-Inclusive Bridges: I believe in inclusion, ensuring every voice is heard, and every story told.
+**Inclusive Bridges:** I believe in inclusion, ensuring every voice is heard, and every story told.
 
-Wellness & Balance: My journey in the digital realm always keeps the tangible world in perspective.
+**Wellness & Balance:** My journey in the digital realm always keeps the tangible world in perspective.
 
-Innovation & Exploration: Eager to embrace the ever-changing digital landscape, I'm open to new technological breakthroughs and always ready to challenge the status quo.
+**Innovation & Exploration:** Eager to embrace the ever-changing digital landscape, I'm open to new technological breakthroughs and always ready to challenge the status quo.
 
 ### Aspirations:
 
 I've lived in fear for far too long. It's time. Time to embrace vulnerability, recognize my worth, and let go of ego and expectations. Legacy: I hope to leave behind stories, memories, and lessons that matter.
 
-Legacy: I hope to leave behind stories, memories, and lessons that matter.
+**Legacy:** I hope to leave behind stories, memories, and lessons that matter.
 
-Open Narratives: My approach is transparent, and community-focused.
+**Open Narratives:** My approach is transparent, and community-focused.
 
-Unending Curiosity: My thirst for knowledge remains, even as the world around me evolves.
+**Unending Curiosity:** My thirst for knowledge remains, even as the world around me evolves.
 
 ### My New Vision, My Mission:
 
