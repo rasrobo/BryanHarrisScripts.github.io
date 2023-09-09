@@ -68,7 +68,7 @@ Staying true to oneself, one's beliefs, values, and passions is the balance I se
 
 ### Aspirations:
 
-I've lived in fear for far too long. It's time. Time to embrace vulnerability, recognize my worth, and let go of ego and expectations. Legacy: I hope to leave behind stories, memories, and lessons that matter.
+I've lived in fear for far too long. It's time. Time to embrace vulnerability, recognize my worth, and let go of ego and expectations. 
 
 **Legacy:** I hope to leave behind stories, memories, and lessons that matter.
 
