@@ -4,7 +4,7 @@
 
 </div>
 
-![Backup Afterglow-1](https://github.com/BryanHarrisScripts/BryanHarrisScripts/assets/91784044/cae3e557-7102-4288-a63b-55f8bcb2c93a)
+![Backup Afterglow-1](https://github.com/BryanHarrisScripts/BryanHarrisScripts/blob/main/BannerX.png)
 
 # Bridging Worlds by Defining Actions
 
