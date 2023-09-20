@@ -10,6 +10,10 @@
 2. [Story 1: Afterglow Echoes of Sentience](https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/README.md)
 3. [Bryan Harris: Github Profile](https://github.com/BryanHarrisScripts)
 
+<h4>Video Challenges:</h4>
+    
+   <a href="https://github.com/BryanHarrisScripts/BryanHarrisScripts/blob/main/Lost%20And%20Found.md">🔴 Video Challenge - Lost & Found</a><br> 
+   
 ---
 
 ## A, I, Human Manifesto
