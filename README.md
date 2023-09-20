@@ -1,18 +1,13 @@
 
-
 <a id="top"></a>
 
 <h1>Table of Contents</h1><br>
-  
-
-</div>
 
 <div align="center">
   
   <table>
     <tr>
        <td valign="top">
-    <h4>Read First:</h4>
          <!-- Start of your manifesto -->
     <p>
     A, I, Human Manifesto
@@ -54,7 +49,6 @@ My true north is shaped by values and skills, both innate and learned and a rele
         <li><a href="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/README.md">Story 1: Afterglow Echoes of Sentience</a></li>
         <li><a href="https://github.com/BryanHarrisScripts/24-Blocks-OpenStorytelling">24-Blocks-OpenStorytelling</a></li>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp
       </ol>
-      </td>
     </td>
     </tr>
   </table>
@@ -65,7 +59,6 @@ My true north is shaped by values and skills, both innate and learned and a rele
   <a href="#licensing-and-attribution">**Developed by a Human: Bryan Harris (24 Blocks / Afterglow Screenplay / Prompts)</a>
 </div><br>
 
---- 
-
 <a href="#top">Back to Top</a>
 
+----
