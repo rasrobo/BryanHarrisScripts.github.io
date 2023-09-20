@@ -1,18 +1,20 @@
+<a id="table-of-contents"></a>
 
-<a id="top"></a>
 
-<h1>Table of Contents</h1><br>
+# Table of Contents
 
-<div align="center">
-  
-  <table>
-    <tr>
-       <td valign="top">
-         <!-- Start of your manifesto -->
-    <p>
-    A, I, Human Manifesto
 
-Your Actions Define You
+### Repositories:
+
+1. [24 Blocks: Free Story Resources](https://github.com/BryanHarrisScripts/24-Blocks-OpenStorytelling/blob/main/README.md)
+2. [Story 1: Afterglow Echoes of Sentience](https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/README.md)
+3. [Bryan Harris: Github Profile](https://github.com/BryanHarrisScripts)
+
+---
+
+## A, I, Human Manifesto
+
+**Your Actions Define You**
 
 I navigate life with a purpose that extends beyond self, celebrating the collective journey shaped by passions, family ties, and shared wisdom. My family, especially my grandkids, are my constant beacon, reminding me of the legacies we craft and inherit.
 
@@ -28,37 +30,23 @@ This narrative, more than just words, is a shared compass. It illuminates every 
 
 Together, in every endeavour, we reflect a symphony of values, dedication, and the steadfast support of our cherished community.
 
-Guiding Manifesto
+## Guiding Manifesto
 
 Always forge ahead, seizing every thought, recognizing its origin and intent. Transform the triggers, and resist the urge to interpret unsaid words or emotions in spaces I occupy.
 
 Recognize that thoughts shape emotions, which in turn guide actions. Stay anchored in motivations that fuel my spirit. When tangled in thoughts, question their authenticity—do they stand the test of truth?
 
-Your Actions Define You.
+**Your Actions Define You.**
 
-Guiding Stars
- 
+## Guiding Stars
+
 My true north is shaped by values and skills, both innate and learned and a relentless pursuit of genuine joy and pleasure.
-    </p>
-    <!-- End of your manifesto -->
-</td>
-    <td valign="top">
-      <h4>Repositories:</h4>
-      <ol start="1">
-        <li><a href="https://github.com/BryanHarrisScripts/24-Blocks-OpenStorytelling/blob/main/README.md">24 Blocks: Free Story Resources</a></li>
-        <li><a href="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/README.md">Story 1: Afterglow Echoes of Sentience</a></li>
-        <li><a href="https://github.com/BryanHarrisScripts">Bryan Harris: Github Profile</a></li>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp
-      </ol>
-    </td>
-    </tr>
-  </table>
 
-</div>
+---
 
-<div align="center">
-  <a href="#licensing-and-attribution">**Developed by a Human: Bryan Harris (24 Blocks / Afterglow Screenplay / Prompts)</a>
-</div><br>
+**Developed by a Human**: [Bryan Harris (24 Blocks / Afterglow Screenplay / Prompts)](#licensing-and-attribution)
 
-<a href="#top">Back to Top</a>
+---
 
-----
+[Back to Top](#table-of-contents)
+
