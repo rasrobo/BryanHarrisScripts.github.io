@@ -19,8 +19,8 @@
     <td valign="top">
       <h4>Repositories:</h4>
       <ol start="1">
-        <li><a href="https://github.com/BryanHarrisScripts/24-Blocks-OpenStorytelling">24-Blocks-OpenStorytelling</a></li>
-        <li><a href="https://github.com/BryanHarrisScripts/24-Blocks-OpenStorytelling">24-Blocks-OpenStorytelling</a></li>
+        <li><a href="https://github.com/BryanHarrisScripts/24-Blocks-OpenStorytelling">24 Blocks: Free Story Resources</a></li>
+        <li><a href="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience">Story 1: Afterglow Echoes of Sentience</a></li>
         <li><a href="https://github.com/BryanHarrisScripts/24-Blocks-OpenStorytelling">24-Blocks-OpenStorytelling</a></li>
       </ol>
       </td>
