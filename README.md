@@ -2,6 +2,12 @@
 
 <a id="table-of-contents"></a>
 
+The primary purpose behind establishing Open Source Storytelling was to share the script of my screenplay, "Afterglow," with the world. I realized that many of my creations were confined to a computer hard drive, and it made sense to share them under an open-source license. This was my initial focus.
+
+However, as I delved deeper into the editing process, I began consulting books I had acquired and interacting with ChatGPT. This interaction prompted me to construct a resource for budding screenwriters. Consequently, this is how the inception of this website on GitHub occurred.
+
+GitHub serves as a suitable platform as it is not only a repository for my scripts but also offers a revision control system, allowing for structured and organized management of the scripts. Thus, this website is more than a space to share my work; it is a comprehensive resource for amateur screenwriters, providing them with valuable references and insights to facilitate their learning and development in screenplay writing.
+
 # Table of Contents
 
 ### Repositories:
