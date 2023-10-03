@@ -14,7 +14,8 @@ GitHub serves as a suitable platform as it is not only a repository for my scrip
 
 1. [24 Blocks: Free Story Resources](https://github.com/BryanHarrisScripts/24-Blocks-OpenStorytelling/blob/main/README.md)
 2. [Story 1: Afterglow Echoes of Sentience](https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/README.md)
-3. [Bryan Harris: Github Profile](https://github.com/BryanHarrisScripts)
+3. [Story 2: reimAgIne](https://github.com/BryanHarrisScripts/reimAgIne/blob/main/README.md)
+4. [Bryan Harris: Github Profile](https://github.com/BryanHarrisScripts)
 
 <h4>Video Challenges:</h4>
     
