@@ -1,4 +1,6 @@
 
+**Note:** Firefly images are high-resolution so you may need to downsize before using the software. Then after the video is created use your editor or ffmpeg to rework the quality.
+
 ---
 
 ### Notes on Installation (follow instruction of Repo)
