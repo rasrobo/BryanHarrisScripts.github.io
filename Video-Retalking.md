@@ -1,4 +1,9 @@
 
+### Launching After Installation
+- set PYTHONPATH=%PYTHONPATH%;C:\\Users\\bryan\\videoretalkingENV\\lib\\site-packages
+- cd C:\Users\bryan\video-retalking\ && C:\Users\bryan\videoretalkingENV\Scripts\activate.bat
+- python webui.py
+
 **Note:** Firefly images are high-resolution so you may need to downsize before using the software. Then after the video is created use your editor or ffmpeg to rework the quality.
 
 ---
@@ -30,11 +35,6 @@
 - import sys
 - print(sys.path)
 
-### Launching After Installation
-- cd C:\Users\bryan\video-retalking\ && C:\Users\bryan\videoretalkingENV\Scripts\activate.bat
-- set PYTHONPATH=%PYTHONPATH%;C:\\Users\\bryan\\videoretalkingENV\\lib\\site-packages
-- python webui.py
-
 ### Checking Python Versions & Launching WebUI
 - python --version
 - python3 --version
@@ -54,8 +54,9 @@
 - downgrading to numpy==1.23.1 fixed it without having to replace any text as stated above
 
 ### Troubleshooting (Using CLI)
-- python inference.py --face temp/video\1.mp4 --audio temp/audio\1-0-100.wav --outfile results/64993_0.mp4
+- python inference.py --face temp/video\1.mp4 --audio temp/audio\1.wav --outfile results/NEW_1.mp4
 - (videoretalkingENV) C:\Users\bryan\video-retalking>python inference.py --face temp/video\3.mp4 --audio temp/audio\1-0-100.wav --outfile results/pixel_0.mp4
+- (videoretalkingENV) C:\Users\bryan\video-retalking>python inference.py --face temp/video\1.mp4 --audio temp/audio\1.wav --outfile results/NEW_1.mp4
 
 ### Batch File for Your Desktop
 - @echo off
