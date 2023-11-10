@@ -10,7 +10,15 @@ GitHub serves as a suitable platform as it is not only a repository for my scrip
 
 # Table of Contents
 
-### Repositories:
+---
+
+#### GPT OpenStorytelling Plus
+- NEW Screenwriting Guide With Real Screenplay Examples.
+- [OpenStorytelling Plus↗️](https://chat.openai.com/g/g-LppT0lwkB-openstorytelling-plus)
+
+---
+
+#### Repositories:
 
 1. [24 Blocks: Free Story Resources](https://github.com/BryanHarrisScripts/24-Blocks-OpenStorytelling/blob/main/README.md)
 2. [Story 1: Afterglow Echoes of Sentience](https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/README.md)
@@ -18,9 +26,9 @@ GitHub serves as a suitable platform as it is not only a repository for my scrip
 4. [Bryan Harris: Github Profile](https://github.com/BryanHarrisScripts)
 
 <h4>Video Challenges:</h4>
-    
-   <a href="https://github.com/BryanHarrisScripts/BryanHarrisScripts/blob/main/Lost%20And%20Found.md">🔴 Video Challenge - Lost & Found</a><br> 
-   
+      
+   - [Video Challenge - Lost & Found↗](https://github.com/BryanHarrisScripts/BryanHarrisScripts/blob/main/Lost%20And%20Found.md)
+
 ---
 
 ## A, I, Human Manifesto
