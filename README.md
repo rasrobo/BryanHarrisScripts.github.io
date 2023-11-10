@@ -27,7 +27,7 @@ GitHub serves as a suitable platform as it is not only a repository for my scrip
 
 <h4>Video Challenges:</h4>
       
-   - [Video Challenge - Lost & Found↗](https://github.com/BryanHarrisScripts/BryanHarrisScripts/blob/main/Lost%20And%20Found.md)
+   - [Video Challenge - Lost & Found](https://github.com/BryanHarrisScripts/BryanHarrisScripts/blob/main/Lost%20And%20Found.md)
 
 ---
 
