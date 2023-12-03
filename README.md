@@ -12,9 +12,10 @@ GitHub serves as a suitable platform as it is not only a repository for my scrip
 
 ---
 
-#### GPT OpenStorytelling Plus
+#### GPT: Open Source Storytelling
 - NEW Screenwriting Guide With Real Screenplay Examples.
 - [OpenStorytelling Plus↗️](https://chat.openai.com/g/g-LppT0lwkB-openstorytelling-plus)
+- [OpenStorytelling Architect↗️](https://chat.openai.com/g/g-6j0ljNlup-openstorytelling-architect)
 
 ---
 
