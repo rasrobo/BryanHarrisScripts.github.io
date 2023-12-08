@@ -25,7 +25,7 @@ GitHub serves as a suitable platform as it is not only a repository for my scrip
 <h4>X Stories:</h4>
 
 1. [OpenStorytelling Live](https://github.com/BryanHarrisScripts/OpenStorytelling-Github) - OpenStorytelling Live (The X Stories)
-2. [Screenplay Afterglow](https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/README.md) - Afterglow the Screenplay
+2. [Afterglow AI](https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/README.md) - A 24-Block Example Screenplay "AFTERGLOW"
 3. [reimAgIne Short Video](https://github.com/BryanHarrisScripts/reimAgIne/blob/main/README.md) - A Short AI Film
 4. [Video Challenges](https://github.com/BryanHarrisScripts/BryanHarrisScripts/blob/main/Lost%20And%20Found.md) - Future Fun
 
