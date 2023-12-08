@@ -12,22 +12,22 @@ GitHub serves as a suitable platform as it is not only a repository for my scrip
 
 <h4>OpenAI GPTs:</h4>
 
-- [Step 1 — OpenStorytelling Architect↗️](https://chat.openai.com/g/g-6j0ljNlup-openstorytelling-architect)
-- [Step 2 — OpenStorytelling Plus↗️](https://chat.openai.com/g/g-LppT0lwkB-openstorytelling-plus)
-- [Step 3 — OpenStorytelling visualizer↗️](https://chat.openai.com/g/g-11aRa0n1p-openstorytelling-visualizer)
+- [Step 1 — OpenStorytelling Architect↗️](https://chat.openai.com/g/g-6j0ljNlup-openstorytelling-architect) - Start Building your Fake Dream Home (Your New World)
+- [Step 2 — OpenStorytelling Plus↗️](https://chat.openai.com/g/g-LppT0lwkB-openstorytelling-plus) - How to Start Living in Your New World
+- [Step 3 — OpenStorytelling visualizer↗️](https://chat.openai.com/g/g-11aRa0n1p-openstorytelling-visualizer) - Let's Visualize the World Around You
 
 ## Open Source
 
 <h4>Screenplay Resources and More:</h4>
 
-1. [24 Blocks & Storytelling](https://github.com/BryanHarrisScripts/24-Blocks-OpenStorytelling/blob/main/README.md)
+1. [24 Blocks & Storytelling](https://github.com/BryanHarrisScripts/24-Blocks-OpenStorytelling/blob/main/README.md) - Architecture, Screenplay Techniques, Writing Resources
 
 <h4>X Stories:</h4>
 
-1. [OpenStorytelling Live](https://github.com/BryanHarrisScripts/OpenStorytelling-Github)
-2. [Screenplay Afterglow](https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/README.md)
-3. [reimAgIne Short Video](https://github.com/BryanHarrisScripts/reimAgIne/blob/main/README.md)
-4. [Video Challenges](https://github.com/BryanHarrisScripts/BryanHarrisScripts/blob/main/Lost%20And%20Found.md)
+1. [OpenStorytelling Live](https://github.com/BryanHarrisScripts/OpenStorytelling-Github) - OpenStorytelling Live (The X Stories)
+2. [Screenplay Afterglow](https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/README.md) - Afterglow the Screenplay
+3. [reimAgIne Short Video](https://github.com/BryanHarrisScripts/reimAgIne/blob/main/README.md) - A Short AI Film
+4. [Video Challenges](https://github.com/BryanHarrisScripts/BryanHarrisScripts/blob/main/Lost%20And%20Found.md) - Future Fun
 
 <h4>Github: BryanHarrisScripts:</h4>
 
