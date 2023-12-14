@@ -10,27 +10,27 @@ GitHub serves as a suitable platform as it is not only a repository for my scrip
 
 # Table of Contents
 
-<h4>OpenAI GPTs:</h4>
+<h4>↗️ OpenAI GPTs:</h4>
 
-- [Step 1 — OpenStorytelling Architect↗️](https://chat.openai.com/g/g-6j0ljNlup-openstorytelling-architect) - Start Building your Fake Dream Home (Your New World)
-- [Step 2 — OpenStorytelling Plus↗️](https://chat.openai.com/g/g-LppT0lwkB-openstorytelling-plus) - How to Start Living in Your New World
-- [Step 3 — OpenStorytelling Visualizer↗️](https://chat.openai.com/g/g-11aRa0n1p-openstorytelling-visualizer) - Let's Visualize the World Around You
+- [Step 1 — OpenStorytelling Architect](https://chat.openai.com/g/g-6j0ljNlup-openstorytelling-architect) - Start Building your Fake Dream Home (Your New World)
+- [Step 2 — OpenStorytelling Plus](https://chat.openai.com/g/g-LppT0lwkB-openstorytelling-plus) - How to Start Living in Your New World
+- [Step 3 — OpenStorytelling Visualizer](https://chat.openai.com/g/g-11aRa0n1p-openstorytelling-visualizer) - Let's Visualize the World Around You
 
 ## Open Source
 
-<h4>Screenplay Resources and More:</h4>
+<h4>↗️ Screenplay Resources and More:</h4>
 
 1. [24-Blocks & Storytelling](https://github.com/BryanHarrisScripts/24-Blocks-OpenStorytelling/blob/main/README.md) - Architecture, Screenplay Techniques, Writing Resources
 2. [Afterglow Menu](https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/README.md) - The 24-Block 'AFTERGLOW' Screenplay 
 3. [Afterglow Storyboard](https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/Afterglow%20Storyboard%20Blocks/README.md) - The 24-Block 'AFTERGLOW' Storyboard
 
-<h4>𝕏 Stories:</h4>
+<h4>↗️ 𝕏 Stories:</h4>
 
 1. [OpenStorytelling Basement Broadcasts](https://github.com/BryanHarrisScripts/OpenStorytelling-Github) - Tech, Tales & Coffee Trails
 2. [reimAgIne Short Video](https://github.com/BryanHarrisScripts/reimAgIne/blob/main/README.md) - A Short AI Film
 3. [Video Challenges](https://github.com/BryanHarrisScripts/BryanHarrisScripts/blob/main/Lost%20And%20Found.md) - Future Fun
 
-<h4>Github: BryanHarrisScripts:</h4>
+<h4>↗️ Github: BryanHarrisScripts:</h4>
 
 1. [Bryan Harris Github Profile](https://github.com/BryanHarrisScripts)
 
