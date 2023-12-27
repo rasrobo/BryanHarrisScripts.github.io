@@ -29,7 +29,7 @@ GitHub serves as a suitable platform as it is not only a repository for my scrip
 
 1. [24-Blocks & Storytelling](https://github.com/BryanHarrisScripts/24-Blocks-OpenStorytelling/blob/main/README.md) - Architecture, Screenplay Techniques, Writing Resources
 2. [Afterglow Menu](https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/README.md) - The 24-Block 'AFTERGLOW' Screenplay 
-3. [Afterglow Storyboard](https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/Afterglow%20Storyboard%20Blocks/README.md) - The 24-Block 'AFTERGLOW' Storyboard
+3. [Afterglow Storyboard🎞️](https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/Afterglow%20Storyboard%20Blocks/README.md) - The 24-Block 'AFTERGLOW' Storyboard
 
 <h4>↗️ 𝕏 Stories:</h4>
 
