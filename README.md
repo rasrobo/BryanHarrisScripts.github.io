@@ -28,7 +28,7 @@ GitHub serves as a suitable platform as it is not only a repository for my scrip
 
 3. [OpenStorytelling Visualizer 🔥](https://chat.openai.com/g/g-11aRa0n1p-openstorytelling-visualizer) - Let's Visualize the World Around You: OpenStorytelling Visualizer: AI tool for script formatting, storyboarding, image generation, enhancing screenplay development and visualization. 
 
-## REPOs:
+<h2><img src="github-mark.png" width="18" height="18">  REPOs:</h2>
 
 <h4>↗️ Screenplay Resources and More:</h4>
 
@@ -46,7 +46,6 @@ GitHub serves as a suitable platform as it is not only a repository for my scrip
 
 1. [BryanHarrisScripts](https://github.com/BryanHarrisScripts)
      
-
 ---
 
 ## A, I, Human Manifesto
