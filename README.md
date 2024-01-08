@@ -1,9 +1,14 @@
 <!-- <img src="./images/Untitled-8.png"/> -->
+
+<div align="center">
+
 <img src="/OBS-Reimagined_19_Banner.png"/>
 
 <a id="table-of-contents"></a>
 
 <a href="https://docs.github.com/en/site-policy/github-terms/github-community-guidelines">Guidelines</a> | <a href="https://twitter.com/i/communities/1669222125591318528">Community 𝕏</a> | <a href="https://twitter.com/i/lists/1675490119095140352">List 𝕏</a> | <a href="https://twitter.com/BryanRebooted" target="_blank">@BryanRebooted 𝕏</a> | <a href="https://gptstore.ai/creators/user-0vH8vDvTMzsrgZGPRYAIodro">GPT Store 🆕</a><br>
+
+</div>
  
 The primary purpose behind establishing Open Source Storytelling was to share the script of my screenplay, "Afterglow," with the world. I realized that many of my creations were confined to a computer hard drive, and it made sense to share them under an open-source license. This was my initial focus.
 
