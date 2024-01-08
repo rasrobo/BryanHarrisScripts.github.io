@@ -4,9 +4,7 @@
 
 <img src="/OBS-Reimagined_19_Banner.png"/>
 
-<a id="table-of-contents"></a>
-
-<a href="https://docs.github.com/en/site-policy/github-terms/github-community-guidelines">Guidelines</a> | <a href="https://twitter.com/i/communities/1669222125591318528">Community 𝕏</a> | <a href="https://twitter.com/i/lists/1675490119095140352">List 𝕏</a> | <a href="https://twitter.com/BryanRebooted" target="_blank">@BryanRebooted 𝕏</a> | <a href="https://gptstore.ai/creators/user-0vH8vDvTMzsrgZGPRYAIodro">GPT Store 🆕</a><br>
+<a href="https://docs.github.com/en/site-policy/github-terms/github-community-guidelines">Guidelines</a> | <a href="https://twitter.com/i/communities/1669222125591318528">Community 𝕏</a> | <a href="https://twitter.com/i/lists/1675490119095140352">List 𝕏</a> | <a href="https://twitter.com/BryanRebooted" target="_blank">@BryanRebooted 𝕏</a> | <a href="https://gptstore.ai/creators/user-0vH8vDvTMzsrgZGPRYAIodro">GPT Store 🆕</a><br><br>
 
 </div>
  
@@ -15,6 +13,8 @@ The primary purpose behind establishing Open Source Storytelling was to share th
 However, as I delved deeper into the editing process, I began consulting books I had acquired and interacting with ChatGPT. This interaction prompted me to construct a resource for budding screenwriters. Consequently, this is how the inception of this website on GitHub occurred.
 
 GitHub serves as a suitable platform as it is not only a repository for my scripts but also offers a revision control system, allowing for structured and organized management of the scripts. Thus, this website is more than a space to share my work; it is a comprehensive resource for amateur screenwriters, providing them with valuable references and insights to facilitate their learning and development in screenplay writing.
+
+<a id="table-of-contents"></a>
 
 # Table of Contents
 
