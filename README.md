@@ -15,13 +15,13 @@ GitHub serves as a suitable platform as it is not only a repository for my scrip
 
 <h2><img src="favicon.ico" width="18" height="18">  GPTs:</h2>
 
-- [Step 1 — ↗️OpenStorytelling Architect](https://chat.openai.com/g/g-6j0ljNlup-openstorytelling-architect) - Start Building your Fake Dream Home (Your New World)
+↗️ [Step 1 — OpenStorytelling Architect](https://chat.openai.com/g/g-6j0ljNlup-openstorytelling-architect) - Start Building your Fake Dream Home (Your New World)
       - OpenStorytelling Architect: AI-Driven Architect for OpenStorytelling: Design a storybook home through story, creating your new world. — inspired by Chrissie @pressmanc
 
-- [Step 2 — ↗️OpenStorytelling Plus](https://chat.openai.com/g/g-LppT0lwkB-openstorytelling-plus) - How to Start Living in Your New World
+↗️ [Step 2 — OpenStorytelling Plus](https://chat.openai.com/g/g-LppT0lwkB-openstorytelling-plus) - How to Start Living in Your New World
       - OpenStorytelling Plus: AI-Driven Creative Writing & Screenplay Tool: Ideation, Outlining, Character, Scenes, Subtext for Stories, Books, Film Scripts & More. 
 
-- [Step 3 — ↗️OpenStorytelling Visualizer](https://chat.openai.com/g/g-11aRa0n1p-openstorytelling-visualizer) - Let's Visualize the World Around You
+↗️ [Step 3 — OpenStorytelling Visualizer](https://chat.openai.com/g/g-11aRa0n1p-openstorytelling-visualizer) - Let's Visualize the World Around You
       - OpenStorytelling Visualizer: AI tool for script formatting, storyboarding, image generation, enhancing screenplay development and visualization. 
 
 ## REPOs:
@@ -38,9 +38,9 @@ GitHub serves as a suitable platform as it is not only a repository for my scrip
 2. [reimAgIne Short Video](https://github.com/BryanHarrisScripts/reimAgIne/blob/main/README.md) - A Short AI Film
 3. [Video Challenges](https://github.com/BryanHarrisScripts/BryanHarrisScripts/blob/main/Lost%20And%20Found.md) - Future Fun
 
-<h4>↗️ Github: BryanHarrisScripts:</h4>
+<h4>↗️ Github Profile:</h4>
 
-1. [Bryan Harris Github Profile](https://github.com/BryanHarrisScripts)
+1. [Bryan Harris Scripts](https://github.com/BryanHarrisScripts)
 
 
 
