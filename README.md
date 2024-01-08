@@ -3,6 +3,8 @@
 
 <a id="table-of-contents"></a>
 
+<a href="https://docs.github.com/en/site-policy/github-terms/github-community-guidelines">Guidelines</a> | <a href="https://twitter.com/i/communities/1669222125591318528">Community 𝕏</a> | <a href="https://twitter.com/i/lists/1675490119095140352">List 𝕏</a> | <a href="https://twitter.com/BryanRebooted" target="_blank">@BryanRebooted 𝕏</a><br>
+
 The primary purpose behind establishing Open Source Storytelling was to share the script of my screenplay, "Afterglow," with the world. I realized that many of my creations were confined to a computer hard drive, and it made sense to share them under an open-source license. This was my initial focus.
 
 However, as I delved deeper into the editing process, I began consulting books I had acquired and interacting with ChatGPT. This interaction prompted me to construct a resource for budding screenwriters. Consequently, this is how the inception of this website on GitHub occurred.
@@ -11,7 +13,7 @@ GitHub serves as a suitable platform as it is not only a repository for my scrip
 
 # Table of Contents
 
-<h4><img src="favicon.ico" width="18" height="18"> OpenStorytelling OpenAI GPTs:</h4>
+<h2><img src="favicon.ico" width="18" height="18">  GPTs:</h2>
 
 - [Step 1 — ↗️OpenStorytelling Architect](https://chat.openai.com/g/g-6j0ljNlup-openstorytelling-architect) - Start Building your Fake Dream Home (Your New World)
       - OpenStorytelling Architect: AI-Driven Architect for OpenStorytelling: Design a storybook home through story, creating your new world. — inspired by Chrissie @pressmanc
@@ -22,8 +24,7 @@ GitHub serves as a suitable platform as it is not only a repository for my scrip
 - [Step 3 — ↗️OpenStorytelling Visualizer](https://chat.openai.com/g/g-11aRa0n1p-openstorytelling-visualizer) - Let's Visualize the World Around You
       - OpenStorytelling Visualizer: AI tool for script formatting, storyboarding, image generation, enhancing screenplay development and visualization. 
 
-
-## Open Source
+## REPOs:
 
 <h4>↗️ Screenplay Resources and More:</h4>
 
