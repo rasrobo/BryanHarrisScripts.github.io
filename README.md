@@ -3,7 +3,7 @@
 
 <a id="table-of-contents"></a>
 
-<a href="https://docs.github.com/en/site-policy/github-terms/github-community-guidelines">Guidelines</a> | <a href="https://twitter.com/i/communities/1669222125591318528">Community 𝕏</a> | <a href="https://twitter.com/i/lists/1675490119095140352">List 𝕏</a> | <a href="https://twitter.com/BryanRebooted" target="_blank">@BryanRebooted 𝕏</a> | <a href="https://gptstore.ai/creators/user-0vH8vDvTMzsrgZGPRYAIodro">GPT Store</a><br>
+<a href="https://docs.github.com/en/site-policy/github-terms/github-community-guidelines">Guidelines</a> | <a href="https://twitter.com/i/communities/1669222125591318528">Community 𝕏</a> | <a href="https://twitter.com/i/lists/1675490119095140352">List 𝕏</a> | <a href="https://twitter.com/BryanRebooted" target="_blank">@BryanRebooted 𝕏</a> | <a href="https://gptstore.ai/creators/user-0vH8vDvTMzsrgZGPRYAIodro">GPT Store 🆕</a><br>
  
 The primary purpose behind establishing Open Source Storytelling was to share the script of my screenplay, "Afterglow," with the world. I realized that many of my creations were confined to a computer hard drive, and it made sense to share them under an open-source license. This was my initial focus.
 
@@ -15,22 +15,21 @@ GitHub serves as a suitable platform as it is not only a repository for my scrip
 
 <h2><img src="favicon.ico" width="18" height="18">  GPTs:</h2>
 
-↗️ [Step 1 — OpenStorytelling Architect](https://chat.openai.com/g/g-6j0ljNlup-openstorytelling-architect) - Start Building your Fake Dream Home (Your New World)
-      - OpenStorytelling Architect: AI-Driven Architect for OpenStorytelling: Design a storybook home through story, creating your new world. — inspired by Chrissie @pressmanc
+<h4>↗️ OpenStorytelling:</h4>
 
-↗️ [Step 2 — OpenStorytelling Plus](https://chat.openai.com/g/g-LppT0lwkB-openstorytelling-plus) - How to Start Living in Your New World
-      - OpenStorytelling Plus: AI-Driven Creative Writing & Screenplay Tool: Ideation, Outlining, Character, Scenes, Subtext for Stories, Books, Film Scripts & More. 
+1. [OpenStorytelling Architect](https://chat.openai.com/g/g-6j0ljNlup-openstorytelling-architect) - Start Building your Fake Dream Home (Your New World) OpenStorytelling Architect: AI-Driven Architect for OpenStorytelling: Design a storybook home through story, creating your new world. — inspired by Chrissie @pressmanc
 
-↗️ [Step 3 — OpenStorytelling Visualizer](https://chat.openai.com/g/g-11aRa0n1p-openstorytelling-visualizer) - Let's Visualize the World Around You
-      - OpenStorytelling Visualizer: AI tool for script formatting, storyboarding, image generation, enhancing screenplay development and visualization. 
+2. [OpenStorytelling Plus 🔥](https://chat.openai.com/g/g-LppT0lwkB-openstorytelling-plus) - How to Start Living in Your New World: OpenStorytelling Plus: AI-Driven Creative Writing & Screenplay Tool: Ideation, Outlining, Character, Scenes, Subtext for Stories, Books, Film Scripts & More. 
+
+3. [OpenStorytelling Visualizer 🔥](https://chat.openai.com/g/g-11aRa0n1p-openstorytelling-visualizer) - Let's Visualize the World Around You: OpenStorytelling Visualizer: AI tool for script formatting, storyboarding, image generation, enhancing screenplay development and visualization. 
 
 ## REPOs:
 
 <h4>↗️ Screenplay Resources and More:</h4>
 
-1. [24-Blocks & Storytelling](https://github.com/BryanHarrisScripts/24-Blocks-OpenStorytelling/blob/main/README.md) - Architecture, Screenplay Techniques, Writing Resources
+1. [24-Blocks & Storytelling 🔥](https://github.com/BryanHarrisScripts/24-Blocks-OpenStorytelling/blob/main/README.md) - Architecture, Screenplay Techniques, Writing Resources
 2. [Afterglow Menu](https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/README.md) - The 24-Block 'AFTERGLOW' Screenplay 
-3. [🎞️Afterglow Storyboard](https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/Afterglow%20Storyboard%20Blocks/README.md) - The 24-Block 'AFTERGLOW' Storyboard
+3. [Afterglow Storyboard 🔥](https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/Afterglow%20Storyboard%20Blocks/README.md) - The 24-Block 'AFTERGLOW' Storyboard 🎞️
 
 <h4>↗️ 𝕏 Stories:</h4>
 
@@ -40,11 +39,8 @@ GitHub serves as a suitable platform as it is not only a repository for my scrip
 
 <h4>↗️ Github Profile:</h4>
 
-1. [Bryan Harris Scripts](https://github.com/BryanHarrisScripts)
-
-
-
-      
+1. [BryanHarrisScripts](https://github.com/BryanHarrisScripts)
+     
 
 ---
 
