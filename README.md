@@ -45,6 +45,7 @@ GitHub serves as a suitable platform as it is not only a repository for my scrip
 <h4>↗️ Github Profile:</h4>
 
 1. [BryanHarrisScripts](https://github.com/BryanHarrisScripts)
+2. [Scripts to Screens Pitch ⚙️](https://twitter.com/BryanRebooted/bio)
      
 ---
 
