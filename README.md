@@ -41,17 +41,21 @@ GitHub serves as a suitable platform as it is not only a repository for my scrip
 3. [Afterglow Storyboard 🔥](https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/Afterglow%20Storyboard%20Blocks/README.md) - The 24-Block 'AFTERGLOW' Storyboard 🎞️
 4. [Afterglow Soundtrack 🔥](https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/Afterglow%20Sound%20Track/README.md) - 'AFTERGLOW' Soundtrack 🎶
 
-<h4>↗️ 𝕏 Stories:</h4>
-
-5. [OpenStorytelling Basement Broadcasts](https://github.com/BryanHarrisScripts/OpenStorytelling-Github) - The Artist's Frame Reimagined : Scripts to Screens
-6. [reimAgIne Short Video](https://github.com/BryanHarrisScripts/reimAgIne/blob/main/README.md) - A Short AI Film
-7. [Video Challenges](https://github.com/BryanHarrisScripts/BryanHarrisScripts/blob/main/Lost%20And%20Found.md) - Future Fun
-
 <h4>↗️ My Github Profile:</h4>
 
-8. [BryanHarrisScripts](https://github.com/BryanHarrisScripts)
-9. [Scripts to Screens Pitch ⚙️](https://twitter.com/BryanRebooted/bio)
-     
+5. [BryanHarrisScripts](https://github.com/BryanHarrisScripts)
+6. [Scripts to Screens Pitch ⚙️](https://twitter.com/BryanRebooted/bio)
+
+<h2>𝕏 Stories:</h2>
+
+<h4>↗️ Various Story Resources:</h4>
+
+1. [OpenStorytelling Basement Broadcasts](https://github.com/BryanHarrisScripts/OpenStorytelling-Github) - The Artist's Frame Reimagined : Scripts to Screens
+2. [reimAgIne Short Video](https://github.com/BryanHarrisScripts/reimAgIne/blob/main/README.md) - A Short AI Film
+3. [Video Challenges](https://github.com/BryanHarrisScripts/BryanHarrisScripts/blob/main/Lost%20And%20Found.md) - Future Fun
+
+<br>
+
 ---
 
 ## A, I, Human Manifesto
