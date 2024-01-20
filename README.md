@@ -101,6 +101,7 @@ The full screenplay is divided into 24 segments using the Script Segmentation Sy
 
    - **Algorithm**: Employ a combination of NLP techniques and AI models to segment screenplays. Utilize text analysis to identify narrative structure, scene transitions, and plot points.
    - **Implementation**: Integrate Python-based NLP libraries (like NLTK or spaCy) to process script text and identify key elements for segmentation.
+   -  [Example: 24-Block Process Architecture](https://github.com/BryanHarrisScripts/24-Blocks-OpenStorytelling/blob/main/24%20Blocks/24%20Blocks%20-%20Structure%20Guide.md) 
 
 2. **2D Visualization Interface**:
 
