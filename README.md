@@ -15,6 +15,24 @@ However, as I delved deeper into the editing process, I began consulting books I
 
 GitHub serves as a suitable platform as it is not only a repository for my scripts but also offers a revision control system, allowing for structured and organized management of the scripts. Thus, this website is more than a space to share my work; it is a comprehensive resource for amateur screenwriters, providing them with valuable references and insights to facilitate their learning and development in screenplay writing.
 
+### Overview of OpenStorytelling.com
+
+#### Vision for Screenwriting
+- **Open-Source Sharing**: "Afterglow" is released under an open-source license by Bryan Harris, fostering a community-driven approach to screenwriting.
+- **Educational Shift**: The site evolves from script sharing to a broader educational resource, focusing on nurturing screenwriting talent.
+- **AI's Role**: The use of AI, especially ChatGPT, underlines its importance in creating educational content for screenwriters.
+
+#### GitHub's Role
+- **Beyond Storage**: GitHub is utilized for its revision control capabilities, highlighting its role in structured screenplay management.
+- **Holistic Resource**: Aiming beyond script sharing, the site is designed to be a comprehensive guide for amateur screenwriters, offering various tools and educational content.
+
+#### Key Offerings
+- **Varied Tools**: The site features tools like OpenStorytelling Architect, Plus, and Visualizer, each catering to different screenplay development needs.
+- **Learning Resources**: It provides educational material and techniques, such as storyboarding, to enhance screenwriting skills.
+- **Creative Content**: Scripts, story challenges, and AI films are available for practical learning and skill development.
+
+**Summary**: OpenStorytelling.com integrates technology with creative and educational resources, forming a supportive community for screenwriters.
+
 <a id="table-of-contents"></a>
 
 # Table of Contents
