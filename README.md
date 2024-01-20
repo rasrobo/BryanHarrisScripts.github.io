@@ -109,6 +109,7 @@ For each of the 24 segments, a 2D image or a series of images is created. These 
 
    - **Technology Stack**: Utilize web development frameworks (React or Angular) for frontend development. Backend services can be implemented in Python or Node.js.
    - **Functionality**: Interface to display segmented scripts and visualize key elements. Incorporate features for user interaction with the script segments.
+   - [Example: 24-Block 2D Image Process](https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/Afterglow%20Storyboard%20Blocks/Block_1/Keyframes.md) 
 
 3. **AI Agent Integration (CrewAI)**:
 
