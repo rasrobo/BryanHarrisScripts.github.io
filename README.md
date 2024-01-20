@@ -148,8 +148,8 @@ Once all segments are finalized, they are compiled into a sequential format, cre
    - [Prototype: OpenStorytelling Visualizer 🔥](https://chat.openai.com/g/g-11aRa0n1p-openstorytelling-visualizer)
    - [Examples: Afterglow Storyboard 🔥](https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/Afterglow%20Storyboard%20Blocks/README.md) - The 24-Block 'AFTERGLOW' Storyboard 🎞️
    - [Examples: Afterglow Soundtrack 🔥](https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/Afterglow%20Sound%20Track/README.md) - 'AFTERGLOW' Soundtrack 🎶
-  
-The CrewAI system is a sophisticated AI-driven framework designed for creating visual stories. Here's a summary of its components and functionality:
+
+### CrewAI System: AI-driven Framework for Creating Visual Screenplays
 
 1. **CrewAI Core**:
    - **Function**: Acts as the central coordinator for all AI agents.
