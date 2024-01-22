@@ -5,6 +5,8 @@
 
 OpenStorytelling.com, created by Bryan Harris, makes writing scripts easier and more fun with smart tech. The platform turns your scripts into visual scenes and breaks them down into easy parts, perfect for scriptwriters and creatives. By bringing characters to life and letting people work together on stories, we're blending the latest tech with storytelling, making it an exciting new way to tell and share stories.
 
+## Conceptual Drawing
+
 <div align="center">
 
 <img src="/AI-Process2.png"/>
@@ -56,8 +58,7 @@ GitHub serves as a suitable platform as it is not only a repository for my scrip
 <h4>↗️ Educational Resources and More:</h4>
 
 1. [24-Blocks & Storytelling 🔥](https://github.com/BryanHarrisScripts/24-Blocks-OpenStorytelling/blob/main/README.md) - Architecture, Screenplay Techniques, Writing Resources
-2. [24-Blocks Decentralized vs Centralized](https://github.com/BryanHarrisScripts/24-Blocks-OpenStorytelling/blob/main/OpenSource/centralvsdecentral.md) - A System for Everyone
-
+2. [24-Blocks Decentralized vs Centralized](https://github.com/BryanHarrisScripts/24-Blocks-OpenStorytelling/blob/main/OpenSource/centralvsdecentral.md) - A System for Every Creative
 <h4>↗️ Afterglow Resources: </h4>
 
 2. [Welcome to Afterglow](https://afterglow.openstorytelling.com) - The 'AFTERGLOW' Repo
