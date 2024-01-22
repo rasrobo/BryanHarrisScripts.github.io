@@ -5,6 +5,8 @@
 
 OpenStorytelling.com, created by Bryan Harris, makes writing scripts easier and more fun with smart tech. The platform turns your scripts into visual scenes and breaks them down into easy parts, perfect for scriptwriters and creatives. By bringing characters to life and letting people work together on stories, we're blending the latest tech with storytelling, making it an exciting new way to tell and share stories.
 
+</div>
+
 ## Conceptual Drawing
 
 <div align="center">
