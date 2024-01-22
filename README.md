@@ -52,6 +52,7 @@ GitHub serves as a suitable platform as it is not only a repository for my scrip
 <h4>↗️ Educational Resources and More:</h4>
 
 1. [24-Blocks & Storytelling 🔥](https://github.com/BryanHarrisScripts/24-Blocks-OpenStorytelling/blob/main/README.md) - Architecture, Screenplay Techniques, Writing Resources
+2. [24-Blocks Decentralized vs Centralized](https://github.com/BryanHarrisScripts/24-Blocks-OpenStorytelling/blob/main/OpenSource/centralvsdecentral.md) - Decentralized vs Centralized
 
 <h4>↗️ Afterglow Resources: </h4>
 
