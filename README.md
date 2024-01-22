@@ -101,7 +101,7 @@ GitHub serves as a suitable platform as it is not only a repository for my scrip
 
 To streamline the Script Visualization and AI Integration process for OpenStorytelling.com, let's focus on eliminating overlap and redundancy while clearly defining each component's role:
 
-### Script Visualization and AI Integration
+## Script Visualization and AI Integration
 
 1. **Script Segmentation System**:
 
@@ -138,7 +138,7 @@ Screenwriters, directors, or viewers can interact with these 2D visualizations. 
 
 Once all segments are finalized, they are compiled into a sequential format, creating a continuous 2-hour visual story. This compilation could be presented as an interactive digital book, a slide show, or a similar format that allows viewers to progress through the story at their own pace. The final outcome is a comprehensive visual representation of the entire script, offering an innovative way to experience, analyze, and share a 2-hour story through engaging 2D imagery and interactive elements. Designing the system to use CrewAI for creating a cohesive visual story involves structuring the architecture to focus on collaborative AI agent functionality. 
 
-### OpenSource and CrewAI-Driven Storytelling Tools
+## OpenSource and CrewAI-Driven Storytelling Tools
 
 1. **OpenStorytelling Architect**:
    - **Function**: A tool for building detailed story environments, leveraging AI for contextual understanding and environmental setup.
@@ -157,7 +157,7 @@ Once all segments are finalized, they are compiled into a sequential format, cre
    - [Examples: Afterglow Storyboard 🔥](https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/Afterglow%20Storyboard%20Blocks/README.md) - The 24-Block 'AFTERGLOW' Storyboard 🎞️
    - [Examples: Afterglow Soundtrack 🔥](https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/Afterglow%20Sound%20Track/README.md) - 'AFTERGLOW' Soundtrack 🎶
 
-### CrewAI System: AI-driven Framework for Creating Visual Screenplays
+## CrewAI System: AI-driven Framework for Creating Visual Screenplays
 
 1. **CrewAI Core**:
    - **Function**: Acts as the central coordinator for all AI agents.
