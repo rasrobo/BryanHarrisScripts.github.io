@@ -66,6 +66,9 @@ GitHub serves as a suitable platform as it is not only a repository for my scrip
 2. [Welcome to Afterglow](https://afterglow.openstorytelling.com) - The 'AFTERGLOW' Repo
 3. [Storyboard 🔥](https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/Afterglow%20Storyboard%20Blocks/README.md) - The 24-Block 'AFTERGLOW' Storyboard 🎞️
 4. [Soundtrack 🔥](https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/Afterglow%20Sound%20Track/README.md) - The 'AFTERGLOW' Soundtrack 🎶
+5. [Character Profiles](https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/Afterglow%20Storyboard%20Blocks/Character.md) - The 'AFTERGLOW' Characters
+
+
 
 <h4>↗️ My Github Profile:</h4>
 
