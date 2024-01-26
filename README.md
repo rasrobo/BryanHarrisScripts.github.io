@@ -61,6 +61,8 @@ GitHub serves as a suitable platform as it is not only a repository for my scrip
 
 1. [24-Blocks & Storytelling 🔥](https://24blocks.openstorytelling.com/) - Architecture, Screenplay Techniques, Writing Resources
 2. [24-Blocks Decentralized vs Centralized](https://github.com/BryanHarrisScripts/24-Blocks-OpenStorytelling/blob/main/OpenSource/centralvsdecentral.md) - A System for Every Creative
+3. [24-Blocks Mood Boards](https://github.com/BryanHarrisScripts/24-Blocks-OpenStorytelling/blob/main/MoodBoard/README.md) - Mood Boards for Creative Ideation
+
 <h4>↗️ Afterglow Resources: </h4>
 
 2. [Welcome to Afterglow](https://afterglow.openstorytelling.com) - The 'AFTERGLOW' Repo
