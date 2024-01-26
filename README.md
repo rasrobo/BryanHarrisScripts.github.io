@@ -87,6 +87,8 @@ GitHub serves as a suitable platform as it is not only a repository for my scrip
 
 <br>
 
+ [Back to Top](#table-of-contents)
+
 ---
 
 ![DALL·E 2024-01-20 15 05 37 - Create a visual representation of the architecture for a script visualization tool using 2D images and 24-blocks, each representing 5 minutes of scrip](https://github.com/BryanHarrisScripts/BryanHarrisScripts.github.io/assets/91784044/c2c52ccc-692a-4cbe-bcf8-8d966c5932f0)
@@ -105,6 +107,8 @@ OpenStorytelling.com is a unique platform revolutionizing scriptwriting by integ
 - **Tokens and Blockchain**: Implementing blockchain for secure, transparent transactions and possibly introducing platform-specific tokens could offer new ways to engage with and reward the community.
 - **Governance and DAO (Decentralized Autonomous Organization)**: The platform could evolve into a DAO, where decisions about the site's future are made democratically by its community members, ensuring that it evolves in ways that best serve their needs.
 - **Community Engagement**: A more tightly coupled community feature could foster collaboration, feedback, and support among screenwriters, enhancing the creative process.
+
+[Back to Top](#table-of-contents)
 
 ---
 
@@ -149,6 +153,8 @@ Screenwriters, directors, or viewers can interact with these 2D visualizations. 
 
 Once all segments are finalized, they are compiled into a sequential format, creating a continuous 2-hour visual story. This compilation could be presented as an interactive digital book, a slide show, or a similar format that allows viewers to progress through the story at their own pace. The final outcome is a comprehensive visual representation of the entire script, offering an innovative way to experience, analyze, and share a 2-hour story through engaging 2D imagery and interactive elements. Designing the system to use CrewAI for creating a cohesive visual story involves structuring the architecture to focus on collaborative AI agent functionality. 
 
+[Back to Top](#table-of-contents)
+
 ## OpenSource and CrewAI-Driven Storytelling Tools
 
 1. **OpenStorytelling Architect**:
@@ -167,6 +173,8 @@ Once all segments are finalized, they are compiled into a sequential format, cre
    - [Prototype: OpenStorytelling Visualizer 🔥](https://chat.openai.com/g/g-11aRa0n1p-openstorytelling-visualizer)
    - [Examples: Afterglow Storyboard 🔥](https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/Afterglow%20Storyboard%20Blocks/README.md) - The 24-Block 'AFTERGLOW' Storyboard 🎞️
    - [Examples: Afterglow Soundtrack 🔥](https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/Afterglow%20Sound%20Track/README.md) - 'AFTERGLOW' Soundtrack 🎶
+  
+[Back to Top](#table-of-contents)
 
 ## CrewAI System: AI-driven Framework for Creating Visual Screenplays
 
@@ -200,6 +208,8 @@ Once all segments are finalized, they are compiled into a sequential format, cre
 
 **System Architecture Visualization**:
 The system can be visualized as a centralized structure with CrewAI at its core. Surrounding AI agent groups interact with the script segments and contribute to the 2D visualization, culminating in the final story output. This design showcases CrewAI's ability to manage collaborative AI agents for seamless and dynamic storytelling in a 2D visual format.
+
+[Back to Top](#table-of-contents)
   
 ## A, I, Human Manifesto
 
