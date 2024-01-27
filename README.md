@@ -60,7 +60,7 @@ GitHub serves as a suitable platform as it is not only a repository for my scrip
 <h4>↗️ Educational Resources and More:</h4>
 
 1. [24-Blocks & Storytelling 🔥](https://24blocks.openstorytelling.com/) - Architecture, Screenplay Techniques, Writing Resources
-2. [24-Blocks Story Board 🔥](https://github.com/BryanHarrisScripts/24-Blocks-OpenStorytelling/blob/main/24%20Blocks/24%20Blocks%20-%20Structure%20Guide.md) - A 24-Blocks Structure Guide
+2. [24-Blocks in 4-Acts 🔥](https://github.com/BryanHarrisScripts/24-Blocks-OpenStorytelling/blob/main/24%20Blocks/24%20Blocks%20-%20Structure%20Guide.md) - A 24-Blocks Structure Guide
 3. [24-Blocks Mood Boards](https://github.com/BryanHarrisScripts/24-Blocks-OpenStorytelling/blob/main/MoodBoard/README.md) - Mood Boards for Creative Ideation
 
 <h4>↗️ Afterglow Resources: </h4>
