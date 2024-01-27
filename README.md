@@ -242,15 +242,13 @@ Recognize that thoughts shape emotions, which in turn guide actions. Stay anchor
 
 My true north is shaped by values and skills, both innate and learned and a relentless pursuit of genuine joy and pleasure.
 
----
-
 **Developed by a Human**: [Bryan Harris (24 Blocks / Afterglow Screenplay / Prompts)](#licensing-and-attribution)
 
 ---
 
 **Disclaimer:** This content has been generated using an AI language model. It may include information, phrases, or ideas that could resemble existing copyrighted material, even though the specific sources are unknown. The AI is used for creative and informational purposes. Any resemblance to other works is coincidental, and this content is not intended to infringe upon the rights of any copyright holders.
 
-[Legal Disclaimer](https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/Afterglow%20Sound%20Track/README.md
+[Legal Disclaimer](https://github.com/BryanHarrisScripts/BryanHarrisScripts.github.io/blob/main/LegalDisclaimer.md)
 
 ---
 
