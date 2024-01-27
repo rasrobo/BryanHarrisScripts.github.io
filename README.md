@@ -60,22 +60,22 @@ GitHub serves as a suitable platform as it is not only a repository for my scrip
 <h4>↗️ Educational Resources and More:</h4>
 
 1. [24-Blocks & Storytelling 🔥](https://24blocks.openstorytelling.com/) - Architecture, Screenplay Techniques, Writing Resources
-2. [24-Blocks Decentralized vs Centralized](https://github.com/BryanHarrisScripts/24-Blocks-OpenStorytelling/blob/main/OpenSource/centralvsdecentral.md) - A System for Every Creative
+2. [24-Blocks Story Board 🔥](https://github.com/BryanHarrisScripts/24-Blocks-OpenStorytelling/blob/main/24%20Blocks/24%20Blocks%20-%20Structure%20Guide.md) - A 24-Blocks Structure Guide
 3. [24-Blocks Mood Boards](https://github.com/BryanHarrisScripts/24-Blocks-OpenStorytelling/blob/main/MoodBoard/README.md) - Mood Boards for Creative Ideation
 
 <h4>↗️ Afterglow Resources: </h4>
 
-2. [Welcome to Afterglow](https://afterglow.openstorytelling.com) - The 'AFTERGLOW' Repo
-3. [Storyboard 🔥](https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/Afterglow%20Storyboard%20Blocks/README.md) - The 24-Block 'AFTERGLOW' Storyboard 🎞️
-4. [Soundtrack 🔥](https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/Afterglow%20Sound%20Track/README.md) - The 'AFTERGLOW' Soundtrack 🎶
-5. [Character Profiles](https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/Afterglow%20Storyboard%20Blocks/Character.md) - The 'AFTERGLOW' Characters
-
+1. [Welcome to Afterglow](https://afterglow.openstorytelling.com) - The 'AFTERGLOW' Repo
+2. [Storyboard 🔥](https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/Afterglow%20Storyboard%20Blocks/README.md) - The 24-Block 'AFTERGLOW' Storyboard 🎞️
+3. [Soundtrack 🔥](https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/Afterglow%20Sound%20Track/README.md) - The 'AFTERGLOW' Soundtrack 🎶
+4. [Character Profiles](https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/Afterglow%20Storyboard%20Blocks/Character.md) - The 'AFTERGLOW' Characters
 
 
 <h4>↗️ My Github Profile:</h4>
 
-5. [BryanHarrisScripts](https://github.com/BryanHarrisScripts)
-6. [Scripts to Screens Pitch ⚙️](https://twitter.com/BryanRebooted/bio)
+1. [BryanHarrisScripts](https://github.com/BryanHarrisScripts)
+2. [Scripts to Screens Pitch ⚙️](https://twitter.com/BryanRebooted/bio)
+3. [Decentralized vs Centralized](https://github.com/BryanHarrisScripts/24-Blocks-OpenStorytelling/blob/main/OpenSource/centralvsdecentral.md) - A System for Every Creative
 
 <h2>𝕏 Stories:</h2>
 
