@@ -248,5 +248,8 @@ My true north is shaped by values and skills, both innate and learned and a rele
 
 ---
 
+ [Legal Disclaimer](https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/Afterglow%20Sound%20Track/README.md
+  
+
 [Back to Top](#table-of-contents)
 
