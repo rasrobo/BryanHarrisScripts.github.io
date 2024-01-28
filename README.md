@@ -13,7 +13,7 @@ OpenStorytelling.com, created by Bryan Harris, makes writing scripts easier and 
 
 <img src="/AI-Process2.png"/>
 
-<a href="https://docs.github.com/en/site-policy/github-terms/github-community-guidelines">Guidelines</a> | <a href="https://twitter.com/i/communities/1669222125591318528">Community 𝕏</a> | <a href="https://twitter.com/i/lists/1675490119095140352">List 𝕏</a> | <a href="https://discord.gg/gC3ZUtDH" target="_blank">Discord Server</a> | <a href="https://twitter.com/BryanRebooted/bio" target="_blank">@BryanRebooted 𝕏</a><br><br>
+<a href="https://docs.github.com/en/site-policy/github-terms/github-community-guidelines">Guidelines</a> | <a href="https://twitter.com/i/communities/1669222125591318528">Community 𝕏</a> | <a href="https://twitter.com/i/lists/1675490119095140352">List 𝕏</a> | <a href="https://discord.gg/gC3ZUtDH" target="_blank">Discord Server 🆕</a> | <a href="https://twitter.com/BryanRebooted/bio" target="_blank">@BryanRebooted 𝕏</a><br><br>
 
 </div>
  
@@ -67,9 +67,9 @@ GitHub serves as a suitable platform as it is not only a repository for my scrip
 <h4>↗️ Afterglow Resources: </h4>
 
 1. [Afterglow Main Menu 🔥](https://afterglow.openstorytelling.com) - The 'AFTERGLOW' Repo
-2. [Storyboard 🔥](https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/Afterglow%20Storyboard%20Blocks/README.md) - The 24-Block 'AFTERGLOW' Storyboard 🎞️
-3. [Soundtrack ](https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/Afterglow%20Sound%20Track/README.md) - The 'AFTERGLOW' Soundtrack 🎶
-4. [Character Profiles](https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/Afterglow%20Storyboard%20Blocks/Character.md) - The 'AFTERGLOW' Characters 👨‍👩‍👧‍👦
+2. [Storyboard 🎞️](https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/Afterglow%20Storyboard%20Blocks/README.md) - The 24-Block 'AFTERGLOW' Storyboard 
+3. [Soundtrack 🎶](https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/Afterglow%20Sound%20Track/README.md) - The 'AFTERGLOW' Soundtrack 
+4. [Character Profiles 👨‍👩‍👧‍👦](https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/Afterglow%20Storyboard%20Blocks/Character.md) - The 'AFTERGLOW' Characters 
 
 
 <h4>↗️ My Github Profile:</h4>
@@ -85,6 +85,7 @@ GitHub serves as a suitable platform as it is not only a repository for my scrip
 1. [OpenStorytelling Basement Broadcasts](https://github.com/BryanHarrisScripts/OpenStorytelling-Github) - The Artist's Frame Reimagined : Scripts to Screens
 2. [reimAgIne Short Video](https://github.com/BryanHarrisScripts/reimAgIne/blob/main/README.md) - A Short AI Film
 3. [Video Challenges](https://github.com/BryanHarrisScripts/BryanHarrisScripts/blob/main/Lost%20And%20Found.md) - Future Fun
+4. [Discord Server](https://discord.gg/gC3ZUtDH) - Community Discord Server 🆕
 
 <br>
 
