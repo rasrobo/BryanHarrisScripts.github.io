@@ -53,20 +53,20 @@ GitHub serves as a suitable platform as it is not only a repository for my scrip
 
 2. [OpenStorytelling Plus 🔥](https://chat.openai.com/g/g-LppT0lwkB-openstorytelling-plus) - How to Start Living in Your New World: OpenStorytelling Plus: AI-Driven Creative Writing & Screenplay Tool: Ideation, Outlining, Character, Scenes, Subtext for Stories, Books, Film Scripts & More. 
 
-3. [OpenStorytelling Visualizer 🔥](https://chat.openai.com/g/g-11aRa0n1p-openstorytelling-visualizer) - Let's Visualize the World Around You: OpenStorytelling Visualizer: AI tool for script formatting, storyboarding, image generation, enhancing screenplay development and visualization. 
+3. [OpenStorytelling Visualizer](https://chat.openai.com/g/g-11aRa0n1p-openstorytelling-visualizer) - Let's Visualize the World Around You: OpenStorytelling Visualizer: AI tool for script formatting, storyboarding, image generation, enhancing screenplay development and visualization. 
 
 <h2><img src="github-mark.png" width="18" height="18">  REPOs:</h2>
 
 <h4>↗️ Educational Resources and More:</h4>
 
-1. [24-Blocks & Story Education Main Menu 🔥](https://24blocks.openstorytelling.com/) - Architecture, Screenplay Techniques, Writing Resources
+1. [24-Blocks & Story Education Main Menu](https://24blocks.openstorytelling.com/) - Architecture, Screenplay Techniques, Writing Resources
 2. [24-Blocks in 4-Acts 🔥](https://github.com/BryanHarrisScripts/24-Blocks-OpenStorytelling/blob/main/24%20Blocks/24%20Blocks%20-%20Structure%20Guide.md) - A 24-Blocks Structure Guide
 3. [24-Blocks Mood Boards](https://github.com/BryanHarrisScripts/24-Blocks-OpenStorytelling/blob/main/MoodBoard/README.md) - Mood Boards for Creative Ideation
 4. [24-Blocks Loglines](https://github.com/BryanHarrisScripts/24-Blocks-OpenStorytelling/blob/main/Loglines/Loglines.md) - Logline AI Prompt Help
 
 <h4>↗️ Afterglow Resources: </h4>
 
-1. [Afterglow Main Menu 🔥](https://afterglow.openstorytelling.com) - The 'AFTERGLOW' Repo
+1. [Afterglow Main Menu ](https://afterglow.openstorytelling.com) - The 'AFTERGLOW' Repo
 2. [Storyboard 🎞️](https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/Afterglow%20Storyboard%20Blocks/README.md) - The 24-Block 'AFTERGLOW' Storyboard 
 3. [Soundtrack 🎶](https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/Afterglow%20Sound%20Track/README.md) - The 'AFTERGLOW' Soundtrack 
 4. [Character Profiles 👨‍👩‍👧‍👦](https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/Afterglow%20Storyboard%20Blocks/Character.md) - The 'AFTERGLOW' Characters 
@@ -75,8 +75,8 @@ GitHub serves as a suitable platform as it is not only a repository for my scrip
 <h4>↗️ My Github Profile:</h4>
 
 1. [BryanHarrisScripts Profile](https://github.com/BryanHarrisScripts)
-2. [Scripts to Screens Pitch 🔥](https://twitter.com/BryanRebooted/bio)
-3. [Decentralized vs Centralized 🔥](https://github.com/BryanHarrisScripts/24-Blocks-OpenStorytelling/blob/main/OpenSource/centralvsdecentral.md) - A System for Every Creative
+2. [Scripts to Screens Pitch](https://twitter.com/BryanRebooted/bio)
+3. [Decentralized vs Centralized](https://github.com/BryanHarrisScripts/24-Blocks-OpenStorytelling/blob/main/OpenSource/centralvsdecentral.md) - A System for Every Creative
 
 <h2>𝕏 Stories:</h2>
 
@@ -85,7 +85,7 @@ GitHub serves as a suitable platform as it is not only a repository for my scrip
 1. [OpenStorytelling Basement Broadcasts](https://github.com/BryanHarrisScripts/OpenStorytelling-Github) - The Artist's Frame Reimagined : Scripts to Screens
 2. [reimAgIne Short Video](https://github.com/BryanHarrisScripts/reimAgIne/blob/main/README.md) - A Short AI Film
 3. [Video Challenges](https://github.com/BryanHarrisScripts/BryanHarrisScripts/blob/main/Lost%20And%20Found.md) - Future Fun
-4. [Discord Server](https://discord.gg/gC3ZUtDH) - Community Discord Server 🆕
+4. [Discord Server 🆕](https://discord.gg/gC3ZUtDH) - Community Discord Server
 
 <br>
 
@@ -167,14 +167,14 @@ Once all segments are finalized, they are compiled into a sequential format, cre
 2. **OpenStorytelling Plus**:
    - **Function**: Focuses on creative writing, ideation, and character development, using AI for language processing and idea generation.
    - **CrewAI Edition**: CrewAI agents assist in deeper narrative structuring, offering suggestions and generating ideas in response to user inputs.
-   - [Prototype: OpenStorytelling Plus 🔥](https://chat.openai.com/g/g-LppT0lwkB-openstorytelling-plus)
+   - [Prototype: OpenStorytelling Plus ](https://chat.openai.com/g/g-LppT0lwkB-openstorytelling-plus)
 
 3. **OpenStorytelling Visualizer**:
    - **Function**: Transforms scripts into visual storyboards or 2D imagery, using AI for image generation and script interpretation.
    - **CrewAI Edition**: Incorporates CrewAI agents to create dynamic visual representations that adapt to script changes and user interactions.
-   - [Prototype: OpenStorytelling Visualizer 🔥](https://chat.openai.com/g/g-11aRa0n1p-openstorytelling-visualizer)
-   - [Examples: Afterglow Storyboard 🔥](https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/Afterglow%20Storyboard%20Blocks/README.md) - The 24-Block 'AFTERGLOW' Storyboard 🎞️
-   - [Examples: Afterglow Soundtrack 🔥](https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/Afterglow%20Sound%20Track/README.md) - 'AFTERGLOW' Soundtrack 🎶
+   - [Prototype: OpenStorytelling Visualizer ](https://chat.openai.com/g/g-11aRa0n1p-openstorytelling-visualizer)
+   - [Examples: Afterglow Storyboard ](https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/Afterglow%20Storyboard%20Blocks/README.md) - The 24-Block 'AFTERGLOW' Storyboard 
+   - [Examples: Afterglow Soundtrack ](https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/Afterglow%20Sound%20Track/README.md) - 'AFTERGLOW' Soundtrack 
   
 [Back to Top](#table-of-contents)
 
