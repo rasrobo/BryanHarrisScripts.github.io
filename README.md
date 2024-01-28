@@ -59,24 +59,24 @@ GitHub serves as a suitable platform as it is not only a repository for my scrip
 
 <h4>↗️ Educational Resources and More:</h4>
 
-1. [24-Blocks & Story Education Main Menu🔥](https://24blocks.openstorytelling.com/) - Architecture, Screenplay Techniques, Writing Resources
+1. [24-Blocks & Story Education Main Menu 🔥](https://24blocks.openstorytelling.com/) - Architecture, Screenplay Techniques, Writing Resources
 2. [24-Blocks in 4-Acts 🔥](https://github.com/BryanHarrisScripts/24-Blocks-OpenStorytelling/blob/main/24%20Blocks/24%20Blocks%20-%20Structure%20Guide.md) - A 24-Blocks Structure Guide
 3. [24-Blocks Mood Boards](https://github.com/BryanHarrisScripts/24-Blocks-OpenStorytelling/blob/main/MoodBoard/README.md) - Mood Boards for Creative Ideation
 4. [24-Blocks Loglines](https://github.com/BryanHarrisScripts/24-Blocks-OpenStorytelling/blob/main/Loglines/Loglines.md) - Logline AI Prompt Help
 
 <h4>↗️ Afterglow Resources: </h4>
 
-1. [Afterglow Main Menu](https://afterglow.openstorytelling.com) - The 'AFTERGLOW' Repo
+1. [Afterglow Main Menu 🔥](https://afterglow.openstorytelling.com) - The 'AFTERGLOW' Repo
 2. [Storyboard 🔥](https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/Afterglow%20Storyboard%20Blocks/README.md) - The 24-Block 'AFTERGLOW' Storyboard 🎞️
-3. [Soundtrack 🔥](https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/Afterglow%20Sound%20Track/README.md) - The 'AFTERGLOW' Soundtrack 🎶
-4. [Character Profiles](https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/Afterglow%20Storyboard%20Blocks/Character.md) - The 'AFTERGLOW' Characters
+3. [Soundtrack ](https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/Afterglow%20Sound%20Track/README.md) - The 'AFTERGLOW' Soundtrack 🎶
+4. [Character Profiles](https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/Afterglow%20Storyboard%20Blocks/Character.md) - The 'AFTERGLOW' Characters 👨‍👩‍👧‍👦
 
 
 <h4>↗️ My Github Profile:</h4>
 
-1. [BryanHarrisScripts](https://github.com/BryanHarrisScripts)
-2. [Scripts to Screens Pitch ⚙️](https://twitter.com/BryanRebooted/bio)
-3. [Decentralized vs Centralized](https://github.com/BryanHarrisScripts/24-Blocks-OpenStorytelling/blob/main/OpenSource/centralvsdecentral.md) - A System for Every Creative
+1. [BryanHarrisScripts Profile](https://github.com/BryanHarrisScripts)
+2. [Scripts to Screens Pitch 🔥](https://twitter.com/BryanRebooted/bio)
+3. [Decentralized vs Centralized 🔥](https://github.com/BryanHarrisScripts/24-Blocks-OpenStorytelling/blob/main/OpenSource/centralvsdecentral.md) - A System for Every Creative
 
 <h2>𝕏 Stories:</h2>
 
