@@ -3,9 +3,9 @@
 
 <div align="left">
 
-OpenStory aims to serve as a central hub, branching out to engage artists across the entertainment sector, offering a decentralized alternative to the conventional Hollywood route. This model intends to democratize the industry, inviting creatives to share, collaborate, and explore new pathways to success, fostering diversity and innovation in the process.<br>
+OpenStory aims to serve as a central hub, branching out to engage artists across the entertainment sector, offering a decentralized alternative to the conventional Hollywood route. This model intends to democratize the industry, inviting creatives to share, collaborate, and explore new pathways to success, fostering diversity and innovation in the process.<br><br>
 
-Join the OpenStory Server: <a href="https://discord.gg/gC3ZUtDH" target="_blank">Discord 🆕</a><br>
+Join the OpenStory Server: <a href="https://discord.gg/KqHXpVm3uN" target="_blank">Discord 🆕</a><br><br>
 
 OpenStorytelling.com, created by Bryan Harris, makes writing scripts easier and more fun with smart tech. The platform turns your scripts into visual scenes and breaks them down into easy parts, perfect for scriptwriters and creatives. By bringing characters to life and letting people work together on stories, we're blending the latest tech with storytelling, making it an exciting new way to tell and share stories.
 
@@ -17,7 +17,7 @@ OpenStorytelling.com, created by Bryan Harris, makes writing scripts easier and 
 
 <img src="/AI-Process2.png"/>
 
-<a href="https://docs.github.com/en/site-policy/github-terms/github-community-guidelines">Guidelines</a> | <a href="https://twitter.com/i/communities/1669222125591318528">Community 𝕏</a> | <a href="https://twitter.com/i/lists/1675490119095140352">List 𝕏</a> | <a href="https://discord.gg/gC3ZUtDH" target="_blank">Discord Server 🆕</a> | <a href="https://twitter.com/BryanRebooted/bio" target="_blank">@BryanRebooted 𝕏</a><br><br>
+<a href="https://docs.github.com/en/site-policy/github-terms/github-community-guidelines">Guidelines</a> | <a href="https://twitter.com/i/communities/1669222125591318528">Community 𝕏</a> | <a href="https://twitter.com/i/lists/1675490119095140352">List 𝕏</a> | <a href="https://discord.gg/KqHXpVm3uN" target="_blank">Discord Server 🆕</a> | <a href="https://twitter.com/BryanRebooted/bio" target="_blank">@BryanRebooted 𝕏</a><br><br>
 
 </div>
  
@@ -89,7 +89,7 @@ GitHub serves as a suitable platform as it is not only a repository for my scrip
 1. [OpenStorytelling Basement Broadcasts](https://github.com/BryanHarrisScripts/OpenStorytelling-Github) - The Artist's Frame Reimagined : Scripts to Screens
 2. [reimAgIne Short Video](https://github.com/BryanHarrisScripts/reimAgIne/blob/main/README.md) - A Short AI Film
 3. [Video Challenges](https://github.com/BryanHarrisScripts/BryanHarrisScripts/blob/main/Lost%20And%20Found.md) - Future Fun
-4. [Discord 🆕](https://discord.gg/gC3ZUtDH) - OpenStorytelling Community Discord Server
+4. [Discord 🆕](https://discord.gg/KqHXpVm3uN) - OpenStorytelling Community Discord Server
 
 <br>
 
