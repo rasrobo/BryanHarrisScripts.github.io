@@ -18,7 +18,7 @@ OpenStorytelling.com, created by Bryan Harris, makes writing scripts easier and 
 
 <div align="center">
 
-<img src="/AI-Process2.png"/>
+<img src="/OpenStoryHub2.png"/>
 
 <a href="https://docs.github.com/en/site-policy/github-terms/github-community-guidelines">Guidelines</a> | <a href="https://twitter.com/i/communities/1669222125591318528">Community 𝕏</a> | <a href="https://twitter.com/i/lists/1675490119095140352">List 𝕏</a> | <a href="https://discord.gg/KqHXpVm3uN" target="_blank">Discord Server 🆕</a> | <a href="https://twitter.com/OpenStoryHub/bio" target="_blank">@OpenStoryHub 𝕏</a><br><br>
 
