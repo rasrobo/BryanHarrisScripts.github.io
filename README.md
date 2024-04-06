@@ -30,7 +30,7 @@ However, as I delved deeper into the editing process, I began consulting books I
 
 GitHub serves as a suitable platform as it is not only a repository for my scripts but also offers a revision control system, allowing for structured and organized management of the scripts. Thus, this website is more than a space to share my work; it is a comprehensive resource for amateur screenwriters, providing them with valuable references and insights to facilitate their learning and development in screenplay writing.
 
-## Overview of OpenStorytelling.com
+## Overview of OpenStory
 
 #### Vision for Screenwriting
 - **Open-Source Sharing**: "Afterglow" is released under an open-source license by Bryan Harris, fostering a community-driven approach to screenwriting.
@@ -54,13 +54,13 @@ GitHub serves as a suitable platform as it is not only a repository for my scrip
 
 <h2><img src="favicon.ico" width="18" height="18">  GPTs:</h2>
 
-<h4>↗️ OpenStorytelling:</h4>
+<h4>↗️ OpenStory:</h4>
 
-1. [OpenStorytelling Architect](https://chat.openai.com/g/g-6j0ljNlup-openstorytelling-architect) - Start Building your Fake Dream Home (Your New World) OpenStorytelling Architect: AI-Driven Architect for OpenStorytelling: Design a storybook home through story, creating your new world. — inspired by Chrissie @pressmanc
+1. [OpenStory Architect](https://chat.openai.com/g/g-6j0ljNlup-openstorytelling-architect) - Start Building your Fake Dream Home (Your New World) OpenStorytelling Architect: AI-Driven Architect for OpenStorytelling: Design a storybook home through story, creating your new world. — inspired by Chrissie @pressmanc
 
-2. [OpenStorytelling Plus 🔥](https://chat.openai.com/g/g-LppT0lwkB-openstorytelling-plus) - How to Start Living in Your New World: OpenStorytelling Plus: AI-Driven Creative Writing & Screenplay Tool: Ideation, Outlining, Character, Scenes, Subtext for Stories, Books, Film Scripts & More. 
+2. [OpenStory Plus 🔥](https://chat.openai.com/g/g-LppT0lwkB-openstorytelling-plus) - How to Start Living in Your New World: OpenStorytelling Plus: AI-Driven Creative Writing & Screenplay Tool: Ideation, Outlining, Character, Scenes, Subtext for Stories, Books, Film Scripts & More. 
 
-3. [OpenStorytelling Visualizer](https://chat.openai.com/g/g-11aRa0n1p-openstorytelling-visualizer) - Let's Visualize the World Around You: OpenStorytelling Visualizer: AI tool for script formatting, storyboarding, image generation, enhancing screenplay development and visualization. 
+3. [OpenStory Visualizer](https://chat.openai.com/g/g-11aRa0n1p-openstorytelling-visualizer) - Let's Visualize the World Around You: OpenStorytelling Visualizer: AI tool for script formatting, storyboarding, image generation, enhancing screenplay development and visualization. 
 
 <h2><img src="github-mark.png" width="18" height="18">  REPOs:</h2>
 
@@ -89,7 +89,7 @@ GitHub serves as a suitable platform as it is not only a repository for my scrip
 
 <h4>↗️ Various Story Resources:</h4>
 
-1. [OpenStorytelling Basement Broadcasts](https://github.com/BryanHarrisScripts/OpenStorytelling-Github) - The Artist's Frame Reimagined : Scripts to Screens
+1. [OpenStory Basement Broadcasts](https://github.com/BryanHarrisScripts/OpenStorytelling-Github) - The Artist's Frame Reimagined : Scripts to Screens
 2. [reimAgIne Short Video](https://github.com/BryanHarrisScripts/reimAgIne/blob/main/README.md) - A Short AI Film
 3. [Video Challenges](https://github.com/BryanHarrisScripts/BryanHarrisScripts/blob/main/Lost%20And%20Found.md) - Future Fun
 4. [Discord 🆕](https://discord.gg/KqHXpVm3uN) - OpenStory Hub: Community Discord Server
@@ -102,11 +102,11 @@ GitHub serves as a suitable platform as it is not only a repository for my scrip
 
 ![DALL·E 2024-01-20 15 05 37 - Create a visual representation of the architecture for a script visualization tool using 2D images and 24-blocks, each representing 5 minutes of scrip](https://github.com/BryanHarrisScripts/BryanHarrisScripts.github.io/assets/91784044/c2c52ccc-692a-4cbe-bcf8-8d966c5932f0)
 
-## OpenStorytelling: Elevating Scriptwriting in the Digital Age
+## OpenStory: Elevating Scriptwriting in the Digital Age
 
 OpenStorytelling.com is a unique platform revolutionizing scriptwriting by integrating smart technology. It simplifies the process, turning scripts into visual scenes and enabling collaborative storytelling. With a focus on AI, the platform enhances scripts and opens new digital revenue opportunities for writers. It's not just a concept but a working prototype, giving unseen scripts a chance to become visual, valuable digital assets. OpenStorytelling embodies the future of scriptwriting, where every story and voice finds its screen and audience.
 
-## Future Vision for OpenStorytelling.com
+## Future Vision for OpenStory
 
 #### Embracing Modern Technologies and Trends
 - **Micropayments**: Integration of micropayment systems could offer new ways for writers to monetize their work, providing direct income for each view or download.
