@@ -166,17 +166,17 @@ Once all segments are finalized, they are compiled into a sequential format, cre
 
 ## OpenSource and CrewAI-Driven Storytelling Tools
 
-1. **OpenStorytelling Architect**:
+1. **OpenStory Architect**:
    - **Function**: A tool for building detailed story environments, leveraging AI for contextual understanding and environmental setup.
    - **CrewAI Edition**: Enhances the tool by integrating CrewAI agents for more dynamic and responsive world-building based on user inputs.
    - [Prototype: OpenStorytelling Architect](https://chat.openai.com/g/g-6j0ljNlup-openstorytelling-architect) 
 
-2. **OpenStorytelling Plus**:
+2. **OpenStory Plus**:
    - **Function**: Focuses on creative writing, ideation, and character development, using AI for language processing and idea generation.
    - **CrewAI Edition**: CrewAI agents assist in deeper narrative structuring, offering suggestions and generating ideas in response to user inputs.
    - [Prototype: OpenStorytelling Plus ](https://chat.openai.com/g/g-LppT0lwkB-openstorytelling-plus)
 
-3. **OpenStorytelling Visualizer**:
+3. **OpenStory Visualizer**:
    - **Function**: Transforms scripts into visual storyboards or 2D imagery, using AI for image generation and script interpretation.
    - **CrewAI Edition**: Incorporates CrewAI agents to create dynamic visual representations that adapt to script changes and user interactions.
    - [Prototype: OpenStorytelling Visualizer ](https://chat.openai.com/g/g-11aRa0n1p-openstorytelling-visualizer)
